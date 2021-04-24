@@ -12,5 +12,5 @@
 > 
 > • amx_ammo_xbullets - The amount bullets player gets on AWP. (3 bullets by default)
 
-### Author
+### Coded in Pawn by
 > Tiago Alface, also known as Syturio.
